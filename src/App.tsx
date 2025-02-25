@@ -34,11 +34,11 @@ const App = () => {
         <Education />
         <Tech />
        
-        <Feedbacks /> 
-         <div className="relative z-0">
+        {/* <Feedbacks />  */}
+         {/* <div className="relative z-0">
           <Contact />
           <StarsCanvas />
-        </div>
+        </div> */}
       </div>
     </BrowserRouter>
   );
