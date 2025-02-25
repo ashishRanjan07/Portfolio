@@ -18,7 +18,7 @@ import html from './tech/html.png';
 import javascript from './tech/javascript.png';
 import mongodb from './tech/mongodb.png';
 import nodejs from './tech/nodejs.png';
-import reactjs from './tech/reactjs.png';
+import reactjs from './tech/reactJs.png';
 import redux from './tech/redux.png';
 import tailwind from './tech/tailwind.png';
 import typescript from './tech/typescript.png';
