@@ -210,7 +210,7 @@ const projects: TProject[] = [
       },
     ],
     image: carrent,
-    sourceCodeLink: 'https://github.com/ashishRanjan07/PremPackaging',
+    // sourceCodeLink: 'https://github.com/ashishRanjan07/PremPackaging',
     androidImages: [
       'https://raw.githubusercontent.com/ashishRanjan07/PremPackaging/main/ScreenShots/android/Screenshot_1740417092.png',
       'https://raw.githubusercontent.com/ashishRanjan07/PremPackaging/main/ScreenShots/android/Screenshot_1740417109.png',
@@ -323,22 +323,22 @@ const projects: TProject[] = [
     name: 'Rotary Business App',
     description:
       'The Rotary Business app is an online Business-to-Business (B2B) application where Rotary members can expand their businesses and sell their products. They can also join the club and promote their products. Additionally, they can receive notifications and details of viewers interested in their products.',
-    tags: [
-      {
-        name: 'react',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'restapi',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'scss',
-        color: 'pink-text-gradient',
-      },
-    ],
+      tags: [
+        {
+          name: 'react-native',
+          color: 'blue-text-gradient',
+        },
+        {
+          name: 'javascript',
+          color: 'green-text-gradient',
+        },
+        {
+          name: 'css',
+          color: 'pink-text-gradient',
+        },
+      ],
     image: jobit,
-    sourceCodeLink: 'https://bitbucket.org/assertit/rotary-business-listing-app/src/master/',
+    // sourceCodeLink: 'https://bitbucket.org/assertit/rotary-business-listing-app/src/master/',
     androidImages: [
       'https://raw.githubusercontent.com/ashishRanjan07/RNAggrobuddy/main/AggrobuddyFarmer_Application/android/Screenshot_1739870103.png', // Replace with real Android images
       'https://picsum.photos/id/3/200/300',
@@ -369,7 +369,7 @@ const projects: TProject[] = [
       },
     ],
     image: tripguide,
-    sourceCodeLink: 'https://bitbucket.org/assertit/dawdle-mobile-app/src/main/',
+    // sourceCodeLink: 'https://bitbucket.org/assertit/dawdle-mobile-app/src/main/',
     androidImages: [
       'https://raw.githubusercontent.com/ashishRanjan07/Dawdle/main/ScreenShots/android/Screenshot_1740410653.png', 
       'https://raw.githubusercontent.com/ashishRanjan07/Dawdle/main/ScreenShots/android/Screenshot_1740410714.png', 
@@ -426,22 +426,22 @@ const projects: TProject[] = [
     name: 'Clinic Application',
     description:
       'Developed the Clinic Application in React Native, enabling doctors to book and manage patient appointments, update prescriptions, upload reports, and set availability, along with many other features.',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
+      tags: [
+        {
+          name: 'react-native',
+          color: 'blue-text-gradient',
+        },
+        {
+          name: 'javascript',
+          color: 'green-text-gradient',
+        },
+        {
+          name: 'css',
+          color: 'pink-text-gradient',
+        },
+      ],
     image: tripguide,
-    sourceCodeLink: 'https://bitbucket.org/assertit/cma/src/main/',
+    // sourceCodeLink: 'https://bitbucket.org/assertit/cma/src/main/',
     androidImages: [
       'https://raw.githubusercontent.com/ashishRanjan07/Clinic-App/main/Screenshots/android/Screenshot_1740413046.png',
       'https://raw.githubusercontent.com/ashishRanjan07/Clinic-App/main/Screenshots/android/Screenshot_1740413050.png',
@@ -513,22 +513,22 @@ const projects: TProject[] = [
     name: 'ASM Billing Application',
     description:
       'Developed ASM Billing Application in React Native, featuring subscription purchases, bill viewing, renewals, vehicle battery buying, swapping, warranty plans, and other essential vehicle subscription services.',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
+      tags: [
+        {
+          name: 'react-native',
+          color: 'blue-text-gradient',
+        },
+        {
+          name: 'javascript',
+          color: 'green-text-gradient',
+        },
+        {
+          name: 'css',
+          color: 'pink-text-gradient',
+        },
+      ],
     image: tripguide,
-    sourceCodeLink: 'https://github.com/ashishRanjan07/Bill_App',
+    // sourceCodeLink: 'https://github.com/ashishRanjan07/Bill_App',
     androidImages: [
       'https://raw.githubusercontent.com/ashishRanjan07/Bill_App/main/Bill_Application_ScreenShoots/Android/Screenshot_1739342774.png',
       'https://raw.githubusercontent.com/ashishRanjan07/Bill_App/main/Bill_Application_ScreenShoots/Android/Screenshot_1739342779.png',
@@ -655,22 +655,22 @@ const projects: TProject[] = [
     name: 'Daily Prize App',
     description:
       'Developed Daily Prize Application in React Native, allowing users to buy coins, join games, play for a minute to win real money, and withdraw earnings. Features include deposits, coin transaction history, withdrawal and recharge tracking, weekly leaderboards, and more.',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
+      tags: [
+        {
+          name: 'react-native',
+          color: 'blue-text-gradient',
+        },
+        {
+          name: 'javascript',
+          color: 'green-text-gradient',
+        },
+        {
+          name: 'css',
+          color: 'pink-text-gradient',
+        },
+      ],
     image: tripguide,
-    sourceCodeLink: 'https://github.com/ashishRanjan07/DailyPrize',
+    // sourceCodeLink: 'https://github.com/ashishRanjan07/DailyPrize',
     androidImages: [
       'https://raw.githubusercontent.com/ashishRanjan07/DailyPrize/main/DailyPrizeGameScreenShots/Android/Screenshot_1739182295.png',
       'https://raw.githubusercontent.com/ashishRanjan07/DailyPrize/main/DailyPrizeGameScreenShots/Android/Screenshot_1739182296.png',
@@ -722,22 +722,22 @@ const projects: TProject[] = [
     name: 'Aggrobuddy Farmer',
     description:
       'Developed Aggrobuddy Application in React Native, enabling farmers to sell their cultivated products to merchants and purchase farming essentials like fertilizers and equipment. The app features daily weather updates, mandi rates, and educational content on cultivation techniques.',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
+      tags: [
+        {
+          name: 'react-native',
+          color: 'blue-text-gradient',
+        },
+        {
+          name: 'javascript',
+          color: 'green-text-gradient',
+        },
+        {
+          name: 'css',
+          color: 'pink-text-gradient',
+        },
+      ],
     image: tripguide,
-    sourceCodeLink: 'https://github.com/ashishRanjan07/RNAggrobuddy',
+    // sourceCodeLink: 'https://github.com/ashishRanjan07/RNAggrobuddy',
     androidImages: [
       'https://raw.githubusercontent.com/ashishRanjan07/RNAggrobuddy/main/AggrobuddyFarmer_Application/android/Screenshot_1739870103.png',
       'https://raw.githubusercontent.com/ashishRanjan07/RNAggrobuddy/main/AggrobuddyFarmer_Application/android/Screenshot_1739870120.png',
@@ -861,22 +861,22 @@ const projects: TProject[] = [
     name: 'Aggrobuddy Merchant',
     description:
       'Aggrobuddy Merchant, allowing merchants to buy listed products directly from farmers and hire workers for agricultural tasks. The app also includes essential features like product listings, direct farmer deals, weather updates, mandi rates, and educational resources.',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
+      tags: [
+        {
+          name: 'react-native',
+          color: 'blue-text-gradient',
+        },
+        {
+          name: 'javascript',
+          color: 'green-text-gradient',
+        },
+        {
+          name: 'css',
+          color: 'pink-text-gradient',
+        },
+      ],
     image: tripguide,
-    sourceCodeLink: 'https://github.com/ashishRanjan07/RNAggrobuddyMerchant',
+    // sourceCodeLink: 'https://github.com/ashishRanjan07/RNAggrobuddyMerchant',
     androidImages: [
       'https://raw.githubusercontent.com/ashishRanjan07/RNAggrobuddyMerchant/main/Aggrobuddy_Merchant_Application/android/Screenshot_1739871523.png',
       'https://raw.githubusercontent.com/ashishRanjan07/RNAggrobuddyMerchant/main/Aggrobuddy_Merchant_Application/android/Screenshot_1739871548.png',
@@ -961,22 +961,22 @@ const projects: TProject[] = [
     name: 'Aggrobuddy Worker',
     description:
       'Developed Aggrobuddy Worker in React Native, enabling workers to browse and apply for location-based jobs, create offers, negotiate with merchants, and track job and transaction history. The app ensures seamless communication and efficient job management for workers.',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
+      tags: [
+        {
+          name: 'react-native',
+          color: 'blue-text-gradient',
+        },
+        {
+          name: 'javascript',
+          color: 'green-text-gradient',
+        },
+        {
+          name: 'css',
+          color: 'pink-text-gradient',
+        },
+      ],
     image: tripguide,
-    sourceCodeLink: 'https://github.com/ashishRanjan07/AggrobuddyWorker',
+    // sourceCodeLink: 'https://github.com/ashishRanjan07/AggrobuddyWorker',
     androidImages: [
       'https://raw.githubusercontent.com/ashishRanjan07/AggrobuddyWorker/welcome/Aggrobuddy_Worker_Application/android/Screenshot_1739873534.png',
       'https://raw.githubusercontent.com/ashishRanjan07/AggrobuddyWorker/welcome/Aggrobuddy_Worker_Application/android/Screenshot_1739873536.png',
@@ -1058,22 +1058,22 @@ const projects: TProject[] = [
     name: 'Weather Application',
     description:
       'Developed a Weather Application in React Native that provides real-time weather updates and a 3-day forecast based on the users location. Users can also search for any location to view its weather details instantly.',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
+      tags: [
+        {
+          name: 'react-native',
+          color: 'blue-text-gradient',
+        },
+        {
+          name: 'javascript',
+          color: 'green-text-gradient',
+        },
+        {
+          name: 'Tailwind - CSS',
+          color: 'pink-text-gradient',
+        },
+      ],
     image: tripguide,
-    sourceCodeLink: 'https://github.com/ashishRanjan07/Weather',
+    // sourceCodeLink: 'https://github.com/ashishRanjan07/Weather',
     androidImages: [
       'https://raw.githubusercontent.com/ashishRanjan07/Weather/master/Weather_Application/android/Screenshot_1739511141.png',
       'https://raw.githubusercontent.com/ashishRanjan07/Weather/master/Weather_Application/android/Screenshot_1739511148.png',
@@ -1091,22 +1091,22 @@ const projects: TProject[] = [
     name: 'Instagram Clone',
     description:
       'Developed an Instagram Clone in React Native, featuring user authentication, photo and video sharing, likes, comments, real-time messaging, stories, and a personalized feed. The app provides a seamless social media experience with smooth navigation and engaging UI.',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
+      tags: [
+        {
+          name: 'react-native',
+          color: 'blue-text-gradient',
+        },
+        {
+          name: 'javascript',
+          color: 'green-text-gradient',
+        },
+        {
+          name: 'css',
+          color: 'pink-text-gradient',
+        },
+      ],
     image: tripguide,
-    sourceCodeLink: 'https://github.com/ashishRanjan07/Instagram_Expo_Clone',
+    // sourceCodeLink: 'https://github.com/ashishRanjan07/Instagram_Expo_Clone',
     androidImages: [
       'https://raw.githubusercontent.com/ashishRanjan07/Instagram_Expo_Clone/master/InstagramClone_Application/Android/Screenshot_1739549235.png',
       'https://raw.githubusercontent.com/ashishRanjan07/Instagram_Expo_Clone/master/InstagramClone_Application/Android/Screenshot_1739549245.png',
@@ -1159,22 +1159,22 @@ const projects: TProject[] = [
     name: 'Evato',
     description:
       'Developed Evato, a React Native bike rental application available exclusively in Kolkata, West Bengal. Users can rent bikes on an hourly basis, pick up from one station, and drop off at another. The app also offers flexible pass options for daily, hourly, and monthly rentals.',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'supabase',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'css',
-        color: 'pink-text-gradient',
-      },
-    ],
+      tags: [
+        {
+          name: 'react-native',
+          color: 'blue-text-gradient',
+        },
+        {
+          name: 'javascript',
+          color: 'green-text-gradient',
+        },
+        {
+          name: 'css',
+          color: 'pink-text-gradient',
+        },
+      ],
     image: tripguide,
-    sourceCodeLink: 'https://github.com/ashishRanjan07/Evato',
+    // sourceCodeLink: 'https://github.com/ashishRanjan07/Evato',
     androidImages: [
       'https://raw.githubusercontent.com/ashishRanjan07/Evato/main/Evato%20ScreenShots/Android/Screenshot_1739350550.png',
       'https://raw.githubusercontent.com/ashishRanjan07/Evato/main/Evato%20ScreenShots/Android/Screenshot_1739350554.png',

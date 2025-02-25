@@ -16,7 +16,7 @@ const ProjectCard: React.FC<{ index: number } & TProject> = ({
   description,
   tags,
   image, 
-  sourceCodeLink,
+  // sourceCodeLink,
   androidImages,
   iosImages,
 }) => {
@@ -52,7 +52,7 @@ const ProjectCard: React.FC<{ index: number } & TProject> = ({
               alt={name}
               className="h-full w-full rounded-2xl object-cover"
             />
-            <div className="card-img_hover absolute inset-0 m-3 flex justify-end">
+            {/* <div className="card-img_hover absolute inset-0 m-3 flex justify-end">
               <div
                 onClick={() => window.open(sourceCodeLink, "_blank")}
                 className="black-gradient flex h-10 w-10 cursor-pointer items-center justify-center rounded-full"
@@ -63,7 +63,7 @@ const ProjectCard: React.FC<{ index: number } & TProject> = ({
                   className="h-1/2 w-1/2 object-contain"
                 />
               </div>
-            </div>
+            </div> */}
           </div>
           <div className="mt-5">
             <h3 className="text-[24px] font-bold text-white">{name}</h3>

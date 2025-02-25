@@ -33,7 +33,7 @@ export type TProject = {
     color: string;
   }[];
   image: string;
-  sourceCodeLink: string;
+  // sourceCodeLink: string;
   androidImages:string[];
   iosImages:string[];
 } & Required<Pick<TCommonProps, "name">>;
